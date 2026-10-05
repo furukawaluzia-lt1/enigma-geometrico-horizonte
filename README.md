@@ -26,3 +26,9 @@ O tempo, os acertos e as tentativas são exibidos na partida. Nenhum resultado �
 ## Publicação
 
 Site estático com imagens incorporadas em `index.html`, publicado pelo GitHub Pages a partir da raiz da branch `main`. Não requer instalação ou dependências externas.
+
+## Premiação da equipe
+
+O nome da equipe pode ser informado no início. Ao concluir o portal final, o jogo exibe a premiação Equipe Guardiã do Portal, uma frase de parabéns, o tempo e a precisão nas conferências. A classificação automática considera apenas a precisão das respostas; tempo e pistas não diminuem a classificação.
+
+O professor pode registrar três critérios na tela final: explicar propriedades geométricas, justificar e conferir estratégias e compor o tangram com as sete peças sem sobreposição explicando a criação. Cada critério tem três níveis: mediação frequente, apoio pontual e autonomia com justificativa. A classificação completa combina, com o mesmo peso, a precisão e os três critérios. O resultado é um indicador desta atividade, não uma avaliação global do estudante. Não há ranking por velocidade nem envio de resultados a servidores.
